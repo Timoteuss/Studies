@@ -1,4 +1,5 @@
 <xml>
 <name>Timoteuss</name>
 <age>27</age>
-
+<city>SaintPetersburg</city>
+<from>Russia</from>
