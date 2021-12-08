@@ -1,0 +1,15 @@
+Bug report №1
+Title:
+The search doesn't start when you press the Enter button on your keyboard on the Google home page. 
+
+Steps to reproduce: 
+1. Open a browser
+2. Enter url google.com
+3. Enter text in the search bar
+4. Press the Enter button on your keyboard
+
+Actual result: 
+The search doesn't start
+
+Expected result: 
+The search page open
