@@ -2,34 +2,8 @@
 	"group": 25,
 	"people": 228,
 	"course": "QA",
-	"JDAI": { 	"Name": "Vadim",
-			"Age": 32,
-			"Profession": "Developer"}
-
-
+	"JDAI": { 	
+		"Name": "Vadim",
+		"Age": 32,
+		"Profession": "Developer"}
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-:wq
