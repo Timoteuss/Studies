@@ -4,7 +4,7 @@ The search doesn't start when you press the Enter button on your keyboard on the
 
 Steps to reproduce: 
 1. Open a browser
-2. Enter url google.com
+2. Enter url https://www.google.com/
 3. Enter text in the search bar
 4. Press the Enter button on your keyboard
 
